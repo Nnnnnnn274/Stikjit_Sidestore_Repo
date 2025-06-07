@@ -1,0 +1,43 @@
+{
+  "name": "Stickjit unofficial source ",
+  "subtitle": "",
+  "description": "",
+  "iconURL": "https://i.imgur.com/StO29FP.png",
+  "website": "https://altstudio.app",
+  "patreonURL": "https://patreon.com/altstudio",
+  "tintColor": "#6156e2",
+  "featuredApps": [
+    "com.stik.sj"
+  ],
+  "apps": [
+    {
+      "name": "StikJIT",
+      "bundleIdentifier": "com.stik.sj",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/Gobvq7s.png",
+      "tintColor": "#4cc1dc",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "1.3",
+          "date": "2025-04-13T16:25:00+03:00",
+          "localizedDescription": null,
+          "downloadURL": "https://objects.githubusercontent.com/github-production-release-asset-2e65be/955665884/007d1bf7-8718-4aaa-bd55-5f5576150d74?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20250413%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250413T162230Z&X-Amz-Expires=300&X-Amz-Signature=93dc1e4966ecef136390c38c2a4275d48b7ba0ef5847aeb3913be013d67cb394&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3DStikJIT.ipa&response-content-type=application%2Foctet-stream",
+          "size": 6207569,
+          "buildVersion": "",
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
